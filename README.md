@@ -27,15 +27,15 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Google Col
 8. Best Model Analysis + Confusion Matrix
 9. Conclusion
 
+### Screenshort of Camparison table
+<img width="552" height="231" alt="image" src="https://github.com/user-attachments/assets/09ca10dd-5b5a-4413-ad90-16dde5661db7" />
+
 ### Results Summary (Comparison table)
 | Model               | Accuracy | Precision | Recall | F1 Score |
 |---------------------|----------|-----------|--------|----------|
 | Logistic Regression | 0.7705   | 0.7027    | 0.8966 | 0.7879   |
 | Random Forest       | 0.8525   | 0.8125    | 0.8966 | 0.8525   |
 | KNN (k=5)           | 0.7377   | 0.6970    | 0.7931 | 0.7419   |
-
-### Screenshort of Camparison table
-<img width="552" height="231" alt="image" src="https://github.com/user-attachments/assets/09ca10dd-5b5a-4413-ad90-16dde5661db7" />
 
 **Best Model:** Random Forest with F1 Score of 0.8525 (85.25%)
 
