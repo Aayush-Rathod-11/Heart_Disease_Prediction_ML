@@ -27,7 +27,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Google Col
 8. Best Model Analysis + Confusion Matrix
 9. Conclusion
 
-### Results Summary
+### Results Summary (Comparison table)
 | Model               | Accuracy | Precision | Recall | F1 Score |
 |---------------------|----------|-----------|--------|----------|
 | Logistic Regression | 0.7705   | 0.7027    | 0.8966 | 0.7879   |
